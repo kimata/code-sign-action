@@ -59,6 +59,7 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+yarn.lock
 
 # dotenv environment variables file
 .env
@@ -66,5 +67,10 @@ typings/
 # next.js build output
 .next
 
+# OS metadata
+.DS_Store
+Thumbs.db
 .vscode
+
+# testing
 id_rsa
